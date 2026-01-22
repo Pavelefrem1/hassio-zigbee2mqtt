@@ -8,7 +8,7 @@
   ],
   "uart": true,
   "udev": true,
-  "url": "https://github.com/Pavelefrem1/hassio-zigbee2mqtt.git",
+  "url": "https://github.com/PavelEfrem1/hassio-zigbee2mqtt3.git",
   "startup": "application",
   "services": [
     "mqtt:need"
